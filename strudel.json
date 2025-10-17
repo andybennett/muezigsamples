@@ -1,6 +1,8 @@
 {
   "_base": "https://raw.githubusercontent.com/andybennet/muezigsamples/main/",
-  "mbd": "kick/mkick1.WAV",
-  "msd": "snare/msnare1.WAV",
-  "mhh": "hh/mhh1.WAV"
+  "mbd": "kick/kick1.wav",
+  "msd": "snare/snare1.wav",
+  "mhh": "hh/hh1.wav",
+  "mbass": "bass/bass1.wav",
+  "mpad": "pad/pad1.wav"
 }
